@@ -24,14 +24,8 @@ To get started with the Virtual Mouse Assistant, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/VIGNESHWARAN-G-31/Computer-Vision.git
+##
 
-## **Install the required packages**:
-```bash
-pip install opencv-python numpy autopy mediapipe
-
-## **Run the application**:
-```bash
-python virtual_mouse.py
 
 🖥️ Usage:
 Ensure your webcam is connected and functioning properly.
