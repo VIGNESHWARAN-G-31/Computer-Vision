@@ -33,11 +33,11 @@ pip install opencv-python numpy autopy mediapipe
 ```bash
 python virtual_mouse.py
 
-## **🖥️ Usage**:
+🖥️ Usage:
 Ensure your webcam is connected and functioning properly.
 Launch the application, and the webcam feed will be displayed.
 
-## **Gesture Controls**:
+Gesture Controls:
 
 Index Finger Up: Move the cursor.
 Index and Middle Finger Up: Click.
