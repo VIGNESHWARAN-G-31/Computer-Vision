@@ -19,56 +19,37 @@ The **Virtual Mouse Assistant** is an innovative computer vision application tha
 - **MediaPipe**: A library for building multimodal applied machine learning pipelines, used for hand tracking.
 
 ## 📦 Installation
-To get started with the VirtNavigate to the project directory:
+To get started with the Virtual Mouse Assistant, follow these steps:
 
-bash
-Copy code
-cd E:\AI VIRTUAL ASSISTANT
-Install the required packages:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/VIGNESHWARAN-G-31/Computer-Vision.git
 
-bash
-Copy code
+## **Install the required packages**:
+```bash
 pip install opencv-python numpy autopy mediapipe
-Run the application:
 
-bash
-Copy code
+## **Run the application**:
+```bash
 python virtual_mouse.py
 
-🖥️ Usage
+## **🖥️ Usage**:
 Ensure your webcam is connected and functioning properly.
 Launch the application, and the webcam feed will be displayed.
-Gesture Controls:
+
+## **Gesture Controls**:
+
 Index Finger Up: Move the cursor.
 Index and Middle Finger Up: Click.
 Palm Facing Camera: Stop mouse movement (freeze cursor).
 🧑‍🤝‍🧑 Contributing
 Contributions are highly encouraged! To contribute to the Virtual Mouse Assistant, please follow these steps:
 
-Fork the repository.
-Create a new branch:
-bash
-git checkout -b feature/YourFeature
-
-Make your changes and commit them:
-
-git commit -m 'Add some feature'
-
-Push to the branch:
-git push origin feature/YourFeature
-
-
-
-
 🙌 Acknowledgements
 Special thanks to the contributors and authors of the libraries and frameworks used in this project.
 Thanks to the open-source community for their invaluable resources and support.
+
 🌟 Future Enhancements
 🌍 Gesture Recognition for More Actions: Implementing additional gestures for more mouse functions.
 💬 Voice Commands: Integrating voice recognition to control the mouse with voice commands.
-📱 Mobile Application: Developing a mobile version of the Virtual Mouse Assistant for touch-based controls.ual Mouse Assistant, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/VIGNESHWARAN-G-31/Computer-Vision.git
-
+📱 Mobile Application: Developing a mobile version of the Virtual Mouse Assistant for touch-based controls.
